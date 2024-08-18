@@ -48,8 +48,8 @@ Note:- This is a basic Project so we have not think about the security and we ha
 #### "Suggestions and project Improvements are Invited!"
 
 <bold>Thanks a lot</bold><br/>
-                                                                                                        Project Creator<br/>
-                                                                                                         <b>Harshit Shakya</b>
+                                                                                                        Project Creator Antony Jued<br/>
+                                                                                                         <b>Developer</b>
                                                                                                          
 
 <h1>This is Admin Page</h1>
