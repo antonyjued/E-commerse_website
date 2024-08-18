@@ -1,7 +1,7 @@
 # E-Commerce Website Using Java 
 ### E-Commerce
 <span style="color:blue">**This Website is built for following purpose:-**</span>
-- For buying product online
+- For buying product online from Antony Store
 - Maintaining sale history
 - Adding and managing products
 - User Friendly
@@ -55,7 +55,7 @@ Note:- This is a basic Project so we have not think about the security and we ha
 <h1>This is Admin Page</h1>
 <img src="project images/admin page.png">
 
-<h1>This is Home Page</h1>
+<h1>This is Antony's Home Page</h1>
 <img src="project images/home page.png">
 
 <h1>This is Login Page</h1>
