@@ -8,7 +8,7 @@
 - For Implemention of Generic Servlets in Java
 - This is a Mini-project developed using Java, Jdbc, Bootstrap. 
 
-<span style="color:blue">**Admin Have Following Access for this E-Commerce website:-**</span>
+<span style="color:#a8eb12">**Admin Have Following Access for this E-Commerce website:-**</span>
 - Add New Products
 - Add New Category
 - View Available Products
