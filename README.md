@@ -1,7 +1,7 @@
 # E-Commerce Website Using Java 
 ### E-Commerce
 <span style="color:blue">**This Website is built for following purpose:-**</span>
-- For buying product online from Antony Store
+- For buying product online from ### Antony Store
 - Maintaining sale history
 - Adding and managing products
 - User Friendly
