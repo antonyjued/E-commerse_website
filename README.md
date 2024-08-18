@@ -1,14 +1,14 @@
 # E-Commerce Website Using Java 
 ### E-Commerce
 <span style="color:blue">**This Website is built for following purpose:-**</span>
-- For buying product online from Antony Store
+- For buying product online
 - Maintaining sale history
 - Adding and managing products
 - User Friendly
 - For Implemention of Generic Servlets in Java
 - This is a Mini-project developed using Java, Jdbc, Bootstrap. 
 
-<span style="color:#a8eb12">**Admin Have Following Access for this E-Commerce website:-**</span>
+<span style="color:blue">**Admin Have Following Access for this E-Commerce website:-**</span>
 - Add New Products
 - Add New Category
 - View Available Products
@@ -26,20 +26,20 @@
 - Go to Checkout Page
 
 ### Technologies used:-
-#### 1. Front-End Development:
+1. Front-End Development:
 - Html
 - Css
 - Javascript
 - Bootstrap 4
 
-#### 2. Back-End Development
+2. Back-End Development
 - Java
 - JDBC
 - Servlet
 - Hibernate
 - Maven Support
 
-#### 3. Database used
+3. Database used
 - Sql/MySql
 
 
@@ -48,14 +48,13 @@ Note:- This is a basic Project so we have not think about the security and we ha
 #### "Suggestions and project Improvements are Invited!"
 
 <bold>Thanks a lot</bold><br/>
-                                                                                                        Project Creator Antony Jued<br/>
-                                                                                                         <b>Developer</b>
+                                                                                                        Project Creator<br/>                   <b>&copy;Antony Jued</b>
                                                                                                          
-
+ <h1 style="color:dodgerblue;"> &ldquo;Antony Website BluePrint&rdquo;</h1>
 <h1>This is Admin Page</h1>
 <img src="project images/admin page.png">
 
-<h1>This is Antony's Home Page</h1>
+<h1>This is Home Page</h1>
 <img src="project images/home page.png">
 
 <h1>This is Login Page</h1>
