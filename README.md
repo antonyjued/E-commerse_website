@@ -26,20 +26,20 @@
 - Go to Checkout Page
 
 ### Technologies used:-
-# 1. Front-End Development:
+#### 1. Front-End Development:
 - Html
 - Css
 - Javascript
 - Bootstrap 4
 
-# 2. Back-End Development
+#### 2. Back-End Development
 - Java
 - JDBC
 - Servlet
 - Hibernate
 - Maven Support
 
-# 3. Database used
+#### 3. Database used
 - Sql/MySql
 
 
